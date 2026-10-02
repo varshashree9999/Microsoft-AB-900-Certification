@@ -1,7 +1,6 @@
 # Microsoft-AB-900-Certification
 
-## Screen Shot ## 
-## Certifications
+## Certification 
 
 ### Microsoft 365 Certified: Copilot and Agent Administration Fundamentals (AB-900)
 
